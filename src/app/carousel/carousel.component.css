@@ -1,0 +1,43 @@
+
+.title-data { font-size:35px; text-transform:uppercase; letter-spacing:3px; margin-bottom:20px; }
+.title-data.black { color:#000; }
+.title-data.space { margin-left:20px; }
+.columns.knowledge .column .box { height:200px; }
+.label { font-family:'futuratbold'; color:#fff; }
+.p-4 { padding:20px; }
+.ptb-4 { height:auto !important; padding-top:20px !important; padding-bottom:20px !important; }
+p.desc { margin-top:10px; margin-bottom:50px; }
+.is-red p.desc { color:#fff; }
+.mb-3 { margin-bottom:30px; }
+figure.image { max-width:100%; width:100%; }
+.hero.is-red, .card.is-red, .is-red { background:#B03648 !important; }
+.hero.is-dark, .card.is-dark, .is-dark { background:#123432 !important; }
+.hero.is-purple { background:transparent; color:#fff; }
+.card.is-dark .title, .card.is-dark a, .card.is-red .title, .card.is-red a { color:#fff !important;  }
+.card.is-dark .content, .card.is-red .content { color:#eaeaea !important; }
+.is-violet { background:#7f055f !important; }
+.hero.is-yellow { background:#ebd2be; }
+.column .language {-webkit-box-shadow: inset 0px 0px 11px 0px rgba(0,0,0,1);
+-moz-box-shadow: inset 0px 0px 11px 0px rgba(0,0,0,1);
+box-shadow: inset 0px 0px 11px 0px rgba(0,0,0,1); }
+.column .card { -webkit-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.71); }
+.column .project { -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.26);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.26);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.26); }
+.column .project { background:#fff; padding:10px; border-radius:30px; }
+.column .project img { width:100%; height:100%; object-fit:cover; object-position:center; }
+
+.columns.sl-200 .project { height:280px; }
+.columns.sl-200 .column .project img { height:210px; }
+.column .project .desc { margin-top:10px; padding:10px; color:#1E1E1E; text-align:center; }
+
+.columns.sl-500 .project { height:580px; }
+.columns.sl-500 .column .project img { height:510px; }
+
+.column .language {  background:#fff; padding:10px; height:230px; border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px; }
+.column .language .logo { max-width:200px; margin:0 auto; height:200px; }
+.column .language img { width:100%; height:100%; object-fit:contain; text-align:center; }
+.hero.is-spaced { padding-top:90px; padding-bottom:90px; }
+p,h1 {font-family: 'Poppins', sans-serif;}
